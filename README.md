@@ -6,17 +6,21 @@ This project contains create, read, update and delete. The simplicity of a datab
 
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer,but i use pnpm. From your command line:
 
-```
+
 # Clone this repository
+```
 $ git clone https://github.com/valendion/FullStack-Js-FrontEnd-CRUD
-
+```
 # Go into the repository
+```
 $ cd FullStack-Js-FrontEnd-CRUD
-
+```
 # Install dependencies
+```
 $ pnpm install
-
+```
 # Run the app
+```
 $ pnpm run dev
 ```
 
