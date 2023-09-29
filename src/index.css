@@ -14,7 +14,7 @@
   }
 
   .wrapper-content {
-    @apply shadow-lg shadow-indigo-200 min-h-[50%] min-w-[50%] rounded-lg border-2 border-indigo-800 p-1;
+    @apply shadow-lg shadow-indigo-200  rounded-lg border-2 border-indigo-800 p-1;
   }
 
   .wrapper-parent-page {

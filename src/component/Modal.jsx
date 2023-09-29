@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+
 export const Modal = ({ hidden, handleCancel, handleOke }) => {
   return (
     <div className={`modal h-screen w-full fixed left-0 top-0 flex justify-center items-center bg-black  bg-opacity-50 ${hidden}`}>

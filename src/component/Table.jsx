@@ -42,7 +42,7 @@ export const Table = ({ notes }) => {
 
   return (
     <div className="wrapper-content">
-      <table className=" mx-auto ">
+      <table className=" mx-auto">
         <thead className="border-b bg-neutral-800 font-medium text-white">
           <tr>
             {headerTable.map((element, index) => (
